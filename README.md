@@ -21,6 +21,20 @@
   
   npm install - npm run develop or visit your-coffee-tracker.herokuapp.com
   
+
+  ## Built-With
+  * npm
+  * Javascript
+  * Heroku
+  * MERN
+  * Node.js
+  * Expree.js
+  * React
+  * JWT
+  * GRAPHQL
+  * Apollo Server
+
+
   ## Usage 
   
   You can use our app whenever you want to keep tracking your coffee history.
