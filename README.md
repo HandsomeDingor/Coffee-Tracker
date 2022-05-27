@@ -65,7 +65,7 @@
   Junjie Wu - https://github.com/HandsomeDingor<br />
   Steve Calebrese - https://github.com/yakattak<br />
   Refael Aryeh - https://github.com/rafa1326<br />
-  Heroku: https://yakattak-coffee1.heroku.app.com<br />
+  Heroku: https://coffee1tracker.herokuapp.com/<br />
 
   
   Email:<br /> 
